@@ -1,19 +1,19 @@
-## Description
+# Description
 
 Plugin permettant de récupérer les informations des Xiaomi Plants ou MiFlora.
 
 Les Xiaomi Plants sont des sticks Bluetooth de la marque Xiaomi permettant de mesurer l'hygrométrie, la température, la lumière, l'engrais d'une plante. Nul besoin d'autre chose qu'une connexion Bluetooth, y compris via un appareil déporté.
 
 
-## Market
+# Market
 
 Retrouvez le sur le Market Jeedom [ici](https://www.jeedom.com/market/index.php?v=d&p=market&type=plugin&&name=MiFlora)
 
-## Prévisualisation
+# Prévisualisation
 
 ![scrennshot1](../images/MiFlora-Screenshot1.png)
 
-## Configuration
+# Configuration
 
 ### Configuration du plugin
 
@@ -66,11 +66,9 @@ Il faut installer le Bluetooth et s'assurer que *gatttool --device=hci0 -b _macA
 
 Le mode debug permet de lancer en permanence le recuperation des données MiFlora. Il convient de limiter son utilisation au debug.
 
-## FAQ
+# FAQ
 
-
-Est-ce que ce plugin s'appuie sur des API tiers ?
--------------------------------------------------
+### Est-ce que ce plugin s'appuie sur des API tiers ?
 
 Le plugin utilise le Bluetooth pour récupérer les informations du MiFlora.
 Il faut installer le Bluetooth et s'assurer que gatttool -b macAddMiFlora --char-read -a 0x35 fonctionne sur le device cible.
