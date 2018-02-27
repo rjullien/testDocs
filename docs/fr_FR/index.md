@@ -36,9 +36,11 @@ Pour chaque équipement, il faut rentrer l'adresse Bluetooth de l'équipement.
 
 Il est possible de trouver celle-ci en utilisant les commandes :
 
+```
 *bluetoothctl*
 
 *scan on*
+```
 
 Les adresses des MiFlora apparaissent comme ci-dessous:
 
@@ -74,7 +76,7 @@ Configuration avancée
 
 Mode debug
 ---
-* Le mode debug permet de lancer en permanence le recuperation des données MiFlora. Il convient de limiter son utilisation au debug.
+Le mode debug permet de lancer en permanence le recuperation des données MiFlora. Il convient de limiter son utilisation au debug.
 
 FAQ
 ===
