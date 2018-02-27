@@ -19,8 +19,10 @@ Prévisualisation
 
 ![scrennshot1](../images/MiFlora-Screenshot1.png)
 
-Configuration du plugin
+Configuration
 ===
+Configuration du plugin
+---
 
 La partie configuration du plugin permet :
 
@@ -48,7 +50,7 @@ Les adresses des MiFlora apparaissent comme ci-dessous:
 *quit*
 
 Utilisation en déporté
-===
+---
 
 Il est possible que Jeedom pilote un appareil déporté qui se chargera de la communication Bluetooth avec les MiFlora.
 
@@ -60,15 +62,15 @@ Le plugin va alors se connecter en SSH à l'IP saisie précédemment et récupé
 Aucun Jeedom n'est nécessaire sur l'équipement distant.
 
 Pré-requis
-===
+---
 Il faut installer le Bluetooth et s'assurer que *gatttool --device=hci0 -b _macAddMiFlora_ --char-read -a 0x35 --sec-level=high* fonctionne sur l'appareil cible (selon le choix local ou déporté).
 
 Configuration avancée
-===
+---
 *hci :* permet de choisir le dongle Bluetooth pour ceux qui en ont plusieurs.
 
 *niveau de sécurité :* permet de choisir le niveau de sécurité Bluetooth, *high* semble bien dans la majorité des cas, cependant changer le niveau de sécurité semble résoudre certains problèmes de connexions.
 
 Mode debug
-===
+---
 * Le mode debug permet de lancer en permanence le recuperation des données MiFlora. Il convient de limiter son utilisation au debug.
