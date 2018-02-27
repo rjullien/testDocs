@@ -37,20 +37,22 @@ Pour chaque équipement, il faut rentrer l'adresse Bluetooth de l'équipement.
 Il est possible de trouver celle-ci en utilisant les commandes :
 
 ```
-*bluetoothctl*
-
-*scan on*
+{
+bluetoothctl
+scan on
+}
 ```
 
 Les adresses des MiFlora apparaissent comme ci-dessous:
 
-*[NEW] Device C4:7C:8D:xx:xx:xx Flower mate*
-
-*[NEW] Device C4:7C:8D:xx:xx:xx Flower care*
-
-*scan off*
-
-*quit*
+```
+{
+[NEW] Device C4:7C:8D:xx:xx:xx Flower mate
+[NEW] Device C4:7C:8D:xx:xx:xx Flower care
+scan off
+quit
+}
+```
 
 Utilisation en déporté
 ---
