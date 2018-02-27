@@ -25,3 +25,5 @@ social:
   name: Jeedom-Plugins-Extra
   links:
     - https://github.com/Jeedom-Plugins-Extra
+
+theme: jekyll-theme-cayman
