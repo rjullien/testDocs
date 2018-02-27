@@ -20,8 +20,8 @@ Retrouvez le sur le Market Jeedom [ici](https://www.jeedom.com/market/index.php?
 La partie configuration du plugin permet :
 
 * de choisir la fréquence de relevés des informations du MiFlora, de toutes les heures à toutes les 12 heures,
-* de choisir le dongle/port Bluetooth (**hci0** en général, **_hciconfig_** permet de lister ceux disponibles sur votre système),
-* de choisir le niveau de sécurité de la communication Bluetooth (**`high`** sauf si ce n'est pas supporté par votre système),
+* de choisir le dongle/port Bluetooth (**_hci0_** en général, **_hciconfig_** permet de lister ceux disponibles sur votre système),
+* de choisir le niveau de sécurité de la communication Bluetooth (`**high**` sauf si ce n'est pas supporté par votre système),
 * de choisir entre un mode local et un mode déporté.
 
 Pour chaque équipement, il faut rentrer l'adresse Bluetooth de l'équipement.
