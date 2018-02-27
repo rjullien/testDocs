@@ -1,7 +1,8 @@
 Description
 ===
 
-###MiFlora
+
+### MiFlora
 
 
 Plugin permettant de récupérer les informations des Xiaomi Plants ou MiFlora.
