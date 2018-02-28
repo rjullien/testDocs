@@ -60,14 +60,13 @@ Integration dans Jeedom-Plugins-Extra
 
 * Version initiale du plugin.
 
-Idées pour les versions suivantes :
---
+### Idées pour les versions suivantes :
+
 * Ajouter le test des config : hci et sec-level doivent etre rempli
 * Choix du log erreur ou info en cas de problème de connexion au bout de 4 essais
 * Tester que la macadd est <> entre les Équipements (erreur de copie colle)
 * Tester l'état du Bluetooth et le redémarrer en cas de problème (sudo hciconfig hci0 down,sudo hciconfig hci0 up) par exemple l'erreur connect error: Connection refused (111)
 * Provoquer une récupération des données tout de suite après l'ajout du matériel ? ou une commande pour forcer l'update
 * Bouton pour détecter un nouveau MiFlora (éviter de trouver l'adresse à la main)
---
-Cette liste de questions provient essentiellement de vos questions sur le fil de discussion MiFlora du forum.
---
+
+### Cette liste de questions provient essentiellement de vos questions sur le fil de discussion MiFlora du forum.
