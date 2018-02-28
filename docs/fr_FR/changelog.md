@@ -69,4 +69,4 @@ Integration dans Jeedom-Plugins-Extra
 * Provoquer une récupération des données tout de suite après l'ajout du matériel ? ou une commande pour forcer l'update
 * Bouton pour détecter un nouveau MiFlora (éviter de trouver l'adresse à la main)
 
-### Cette liste de questions provient essentiellement de vos questions sur le fil de discussion MiFlora du forum.
+Cette liste de questions provient essentiellement de vos questions sur le fil de discussion MiFlora du forum.
