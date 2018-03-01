@@ -16,4 +16,3 @@ Retrouvez le sur le Market Jeedom [ici](https://www.jeedom.com/market/index.php?
 # Forum
 
 Lien vers le forum [ici](https://www.jeedom.com/forum/viewtopic.php?t=22870)
-~~Remplacer `t=xxxx` par le bon forum number~~
