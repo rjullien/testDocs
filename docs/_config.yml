@@ -21,9 +21,6 @@ title: "Documentation Jeedom-Plugins-Extra"
 description: "Ceci est la documentation du plugin de la team Jeedom-Plugins-Extra"
 author: "Jeedom-Plugins-Extra"
 image: https://avatars1.githubusercontent.com/u/36200380?s=200&v=4
-theme: jekyll-theme-cayman
-gems:
-  - jekyll-mentions
 social:
   name: Jeedom-Plugins-Extra
   links:

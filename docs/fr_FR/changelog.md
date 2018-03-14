@@ -1,7 +1,7 @@
 # Changelog
 ### Version 2.0.0
 
-Integration dans Jeedom-Plugins-Extra
+* Migration de la doc au format markup et integration dans le template Jeedom-Plugins-Extra
 
 ### Version 1.2.5: 31 Mai 2017
 
